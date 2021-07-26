@@ -54,7 +54,7 @@ for i in range(len(blistUserChoose)):
     sum=sum+money
     # print detail information for each item
     print(foodName,"\t",unitPrice,"\t",quantity,"\t\t\t",money)
-print("\t\t\t\t\tThe total amount is:\t",sum," money ")
+print("\t\t\tThe total amount is:\t",sum," money ")
 money=0
 while True:#loop for user to pay money
     strmoney=input("Enter the amount to be paid >>")
