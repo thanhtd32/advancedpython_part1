@@ -12,9 +12,9 @@
     #4. allow user choose any number alphabet to test (recommendation 5)
 
 import string
-from turtle import * # Turtle 모듈 -# Turtle module
-from random import randint #난수 관련 모듈-#Random number related module
-from time import  sleep #시간 솬련 모듈#Time training module
+from turtle import * #Turtle module
+from random import randint #Random number related module
+from time import  sleep #Time training module
 import functools
 import turtle as turtle
 
