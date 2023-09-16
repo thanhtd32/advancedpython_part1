@@ -1,8 +1,8 @@
 #Coder: Tran Duy Thanh
 #Email: thanhtd@uel.edu.vn
 #Phone: 0987773061
-#Blog for self-study: https://duythanhcse.wordpress.com
-#Facebook for solving coding problem: https://www.facebook.com/groups/communityuni
+#Blog for self-study: https://tranduythanh.com
+
 blist=['Americano','Café Latte','Cappuccino','Oranges ','Colacola','Grapefruit']
 plist=[2500,3000,3000,4000,1500,4000]
 blistUserChoose=[]#the index of food name that user selected
