@@ -1,8 +1,8 @@
 #Coder: Tran Duy Thanh
 #Email: thanhtd@uel.edu.vn
 #Phone: 0987773061
-#Blog for self-study: https://duythanhcse.wordpress.com
-#Facebook for solving coding problem: https://www.facebook.com/groups/communityuni
+#Blog for self-study: https://tranduythanh.com
+
 import datetime
 def is_leap_year(yy):
     return  yy % 400 == 0 or (yy%100) and yy%4==0
