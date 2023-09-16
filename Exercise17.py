@@ -1,8 +1,8 @@
 #Coder: Tran Duy Thanh
 #Email: thanhtd@uel.edu.vn
 #Phone: 0987773061
-#Blog for self-study: https://duythanhcse.wordpress.com
-#Facebook for solving coding problem: https://www.facebook.com/groups/communityuni
+#Blog for self-study: https://tranduythanh.com
+
 #Description:
     #These codes I improved from Exercise 16.
     #1.calculate the time difference for each country by saving the time difference of
