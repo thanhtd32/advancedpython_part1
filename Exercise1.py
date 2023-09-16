@@ -1,8 +1,8 @@
 #Coder: Tran Duy Thanh
 #Email: thanhtd@uel.edu.vn
 #Phone: 0987773061
-#Blog for self-study: https://duythanhcse.wordpress.com
-#Facebook for solving coding problem: https://www.facebook.com/groups/communityuni
+#Blog for self-study: https://tranduythanh.com/
+
 print("Please tell me the drink you ordered.")
 noA=int(input("Number of Americano (cups):"))
 noL=int(input("Number of cafe lattes (cups):"))
